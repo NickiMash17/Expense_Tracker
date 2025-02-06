@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+body {
+  background: url('footer_lodyas.png') repeat;
+  font-family: 'Poppins', sans-serif;
+  color: #ffffff;
+  position: relative;
+}
+
+
+.container {
+    max-width: 500px;
+    margin: auto;
+}
+
+.card {
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    background: #ffffff;
+    color: #333;
+}
+
+h2 {
+    font-weight: bold;
+    text-align: center;
+    color: #ffc107;
+}
+
+.btn-primary {
+    background: linear-gradient(135deg, #ff9800, #ff5722);
+    border: none;
+    font-size: 18px;
+}
+
+.btn-primary:hover {
+    background: linear-gradient(135deg, #ff5722, #ff9800);
+}
+
+#expense-list .list-group-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #f8f9fa;
+    border-radius: 5px;
+    margin-top: 5px;
+    padding: 10px;
+}
+
+.delete-btn {
+    cursor: pointer;
+    color: red;
+    font-size: 20px;
+}
+
+.delete-btn:hover {
+    color: #d32f2f;
+}
+
+.expense-icon {
+    font-size: 24px;
+    color: #007bff;
+    margin-right: 10px;
+}
