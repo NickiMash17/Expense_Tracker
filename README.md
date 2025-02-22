@@ -53,7 +53,7 @@ A **modern, interactive, and stylish** **Expense Tracker** built with **HTML, CS
 ---
 
 ### **📩 Connect With Me**
-💼 **Developer:** *Your Name*  
+💼 **Developer:** *Nicolette Mashaba*  
 📧 Email: [nene171408@gmail.com](nene171408@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/nicolette-mashaba-b094a5221/) | [GitHub](https://github.com/NickiMash17)  
 
